@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="gh">TODO</string>
+    <string name="start_game">START GAME</string>
+    <string name="button">Button</string>
+    <string name="select_mode">SELECT MODE</string>
+    <string name="_2_players">2 Players</string>
+    <string name="player_v_s_computer">Player v/s Computer</string>
+    <string name="name">Your Name</string>
+    <string name="your_name">1st Player Name</string>
+    <string name="player_o">Player O</string>
+    <string name="_2nd_player_name">2nd Player Name</string>
+    <string name="done">DONE</string>
+    <string name="player_name">Player Name</string>
+    <string name="choose_side">Choose Side</string>
+    <string name="side_x">Side X</string>
+    <string name="side_o">Side O</string>
+    <string name="player_x">Player X</string>
+    <string name="player_xX">PLAYER X</string>
+    <string name="player_of">PLAYER O</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="_2_players_game">2 PLAYERS GAME</string>
+    <string name="rules">RULES</string>
+    <string name="rule">This game is played between 2 players.The player writing name in Player X block will be playing
+        from the X side and the likewise the second player will be playing from the O side.\n\n FIRST TURN:\n The first
+        turn of the first game will be always given to the Player X and for the text matches the first turn will be
+        given alternatively between Player X and Player O.The yellow color above your name depicts whose turn it is to
+        play.\n\n
+        HOW TO WIN:\n The first player to have his side marked on the 3 columns ,horizontally,vertically or diagonally
+        wins the match.\n\nYou can play as many matches as you wish before quiting to increase your scores against your
+        opponent.\n\n BEST OF LUCK!!
+    </string>
+    <string name="quit">QUIT</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="won">WON</string>
+    <string name="draw">Draw</string>
+</resources>
